@@ -1,0 +1,15 @@
+/Users/gorlitz/Desktop/HW/C#_2/obj/Debug/net6.0/C#_2.csproj.AssemblyReference.cache
+/Users/gorlitz/Desktop/HW/C#_2/obj/Debug/net6.0/C#_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gorlitz/Desktop/HW/C#_2/obj/Debug/net6.0/C#_2.AssemblyInfoInputs.cache
+/Users/gorlitz/Desktop/HW/C#_2/obj/Debug/net6.0/C#_2.AssemblyInfo.cs
+/Users/gorlitz/Desktop/HW/C#_2/obj/Debug/net6.0/C#_2.csproj.CoreCompileInputs.cache
+/Users/gorlitz/Desktop/HW/C#_2/bin/Debug/net6.0/C#_2
+/Users/gorlitz/Desktop/HW/C#_2/bin/Debug/net6.0/C#_2.deps.json
+/Users/gorlitz/Desktop/HW/C#_2/bin/Debug/net6.0/C#_2.runtimeconfig.json
+/Users/gorlitz/Desktop/HW/C#_2/bin/Debug/net6.0/C#_2.dll
+/Users/gorlitz/Desktop/HW/C#_2/bin/Debug/net6.0/C#_2.pdb
+/Users/gorlitz/Desktop/HW/C#_2/obj/Debug/net6.0/C#_2.dll
+/Users/gorlitz/Desktop/HW/C#_2/obj/Debug/net6.0/refint/C#_2.dll
+/Users/gorlitz/Desktop/HW/C#_2/obj/Debug/net6.0/C#_2.pdb
+/Users/gorlitz/Desktop/HW/C#_2/obj/Debug/net6.0/C#_2.genruntimeconfig.cache
+/Users/gorlitz/Desktop/HW/C#_2/obj/Debug/net6.0/ref/C#_2.dll

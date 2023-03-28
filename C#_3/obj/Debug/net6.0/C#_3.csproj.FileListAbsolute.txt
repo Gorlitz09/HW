@@ -1,0 +1,15 @@
+/Users/gorlitz/Desktop/HW/C#_3/bin/Debug/net6.0/C#_3
+/Users/gorlitz/Desktop/HW/C#_3/bin/Debug/net6.0/C#_3.deps.json
+/Users/gorlitz/Desktop/HW/C#_3/bin/Debug/net6.0/C#_3.runtimeconfig.json
+/Users/gorlitz/Desktop/HW/C#_3/bin/Debug/net6.0/C#_3.dll
+/Users/gorlitz/Desktop/HW/C#_3/bin/Debug/net6.0/C#_3.pdb
+/Users/gorlitz/Desktop/HW/C#_3/obj/Debug/net6.0/C#_3.csproj.AssemblyReference.cache
+/Users/gorlitz/Desktop/HW/C#_3/obj/Debug/net6.0/C#_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gorlitz/Desktop/HW/C#_3/obj/Debug/net6.0/C#_3.AssemblyInfoInputs.cache
+/Users/gorlitz/Desktop/HW/C#_3/obj/Debug/net6.0/C#_3.AssemblyInfo.cs
+/Users/gorlitz/Desktop/HW/C#_3/obj/Debug/net6.0/C#_3.csproj.CoreCompileInputs.cache
+/Users/gorlitz/Desktop/HW/C#_3/obj/Debug/net6.0/C#_3.dll
+/Users/gorlitz/Desktop/HW/C#_3/obj/Debug/net6.0/refint/C#_3.dll
+/Users/gorlitz/Desktop/HW/C#_3/obj/Debug/net6.0/C#_3.pdb
+/Users/gorlitz/Desktop/HW/C#_3/obj/Debug/net6.0/C#_3.genruntimeconfig.cache
+/Users/gorlitz/Desktop/HW/C#_3/obj/Debug/net6.0/ref/C#_3.dll
